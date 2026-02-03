@@ -1,5 +1,7 @@
 # PyTorch FP Prediction
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CameronLarsonFLT/PyTorch_FP_Prediction/blob/main/PyTorch_FP.ipynb)
+
 Train simple PyTorch regressors on **FPbase** fluorescent protein sequences to predict key photophysical properties from amino acid sequence.
 
 ## Features
@@ -12,7 +14,6 @@ Train simple PyTorch regressors on **FPbase** fluorescent protein sequences to p
 ## Run in Google Colab
 Open the notebook in Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CameronLarsonFLT/PyTorch_FP_Prediction/blob/main/PyTorch_FP.ipynb)
 
 ## Notes
 - FPbase API: https://www.fpbase.org/api/proteins/
